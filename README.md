@@ -1,6 +1,22 @@
 # H12 1.0.0-beta.1
 
+**Heroes 1 and Heroes 2 in one game, with four brand-new castles (plus Wizard and Necromancer in Heroes 1 mode), for Windows and Android.** H12 runs on the data from your own copies of the original games.
+
+**[Download the beta](https://github.com/h12-game/h12/releases/tag/v1.0.0-beta.1)** | [Installation guide](docs/INSTALL.md)
+
 H12 is a fan project based on the fheroes2 engine (GPL-2.0-or-later), not affiliated with Ubisoft or New World Computing. Heroes of Might and Magic is a trademark of its owner.
+
+## New castles in Heroes 2 mode
+
+| Oasis | Inferno |
+| :---: | :---: |
+| ![Oasis town with a hero and army](docs/images/town-oasis.png) | ![Inferno town with a hero and army](docs/images/town-inferno.png) |
+| **Hive** | **Atoll** |
+| ![Hive town with a hero and army](docs/images/town-hive.png) | ![Atoll town with a hero and army](docs/images/town-atoll.png) |
+
+Heroes 1 mode gets the Wizard and Necromancer castles as well, up to ten castles in total:
+
+![Necromancer town in Heroes 1 mode](docs/images/game-13-necromancer-town-mode1.png)
 
 ## Beta test
 
